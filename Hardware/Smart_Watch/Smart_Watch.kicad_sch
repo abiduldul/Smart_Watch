@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "7b03082b-9568-49d0-9611-8d5d2835f8a5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 128.27 58.42)
+		(size 38.1 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6eb64fd6-12e4-492b-91be-5e0cb0104b5e")
+		(property "Sheetname" "RP2040"
+			(at 128.27 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RP2040.kicad_sch"
+			(at 128.27 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Smart_Watch"
+				(path "/7b03082b-9568-49d0-9611-8d5d2835f8a5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 58.42)
+		(size 38.1 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce4147da-2983-4725-b2b4-54825674435e")
+		(property "Sheetname" "POWER SUPPLY"
+			(at 81.28 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER SUPPLY.kicad_sch"
+			(at 81.28 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Smart_Watch"
+				(path "/7b03082b-9568-49d0-9611-8d5d2835f8a5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 58.42)
+		(size 38.1 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "de10c252-84bd-4050-8929-28bee7b6f79a")
+		(property "Sheetname" "Screen_TFT"
+			(at 175.26 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Screen_TFT.kicad_sch"
+			(at 175.26 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Smart_Watch"
+				(path "/7b03082b-9568-49d0-9611-8d5d2835f8a5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 100.33)
+		(size 38.1 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ded384f7-abe7-46b2-b0a5-3b6589ea4a56")
+		(property "Sheetname" "Sensors_Actuators"
+			(at 128.27 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensors_Actuators.kicad_sch"
+			(at 128.27 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Smart_Watch"
+				(path "/7b03082b-9568-49d0-9611-8d5d2835f8a5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
